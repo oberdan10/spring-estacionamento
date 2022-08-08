@@ -1,5 +1,5 @@
 # Projeto DIO Padrão de Projeto Spring
-Projeto estacionamento desenvolvido com base nas aulas da dio - Santander Bootcamp Fullstack Developer.
+Projeto clientes do estacionamento, desenvolvido com base nas aulas da dio - Santander Bootcamp Fullstack Developer.
 
 Padrões utilizados:
 * Padrão Criacional: Singleton;
